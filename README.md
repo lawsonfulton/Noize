@@ -1,0 +1,2 @@
+# Noize
+Parameterized music visualizer
